@@ -1,0 +1,9 @@
+#+TITLE: Grimoire
+
+Example scripts
+
+* Todo
+  + [ ] Create structure
+  + [ ] Document schema
+
+
