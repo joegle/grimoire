@@ -7,5 +7,15 @@
   + [ ] Create structure
   + [ ] Document schema
 
+* Task Efficiency Gain Cutoff Table
+  + Inspired by the XKCD comic [[https://xkcd.com/1205/][Is It Worth the Time?]] 
+  + Using a 5 year timeline
+
+  | Time Shave | 5/Day   | Daily    | Weekly   | Monthly    |
+  |------------+---------+----------+----------+------------|
+  | 30 sec     | 3 Days  | 12 Hours | 2 Hours  | 30 Minutes |
+  | 1 min      | 6 Days  | 1 Day    | 4 Hours  | 1 Hour     |
+  | 5 min      | 4 Weeks | 6 Days   | 21 Hours | 5 Hours    |
+
 * Notes
 [1] From article in Volume 27 of 2600 The Hacker Quarterly "[[http://www.linux2.ca/grimoire.html][Why You Need a Grimoire]]" by "Leviathan"
