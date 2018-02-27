@@ -1,9 +1,11 @@
-#+TITLE: Grimoire
+#+TITLE: Grimoire / Codebook
 
-Example scripts
+"You, my friend, you need a grimoire." -- Dennis Hopper [1]
+
 
 * Todo
   + [ ] Create structure
   + [ ] Document schema
 
-
+* Notes
+[1] From article in Volume 27 of 2600 The Hacker Quarterly "[[http://www.linux2.ca/grimoire.html][Why You Need a Grimoire]]" by "Leviathan"
